@@ -1,4 +1,4 @@
-# DeleteThumbs
+# 作成の経緯
 ネットワーク上のフォルダを削除しようとしても以下のようなポップアップが出て困ったため、解決するために作成した。  
 ![414046716-4e1e83e2-6e8a-478b-ace8-88ce7b2e98b1](https://github.com/user-attachments/assets/0c7418ea-a01d-449e-93b6-4f29be45bda7)  
 

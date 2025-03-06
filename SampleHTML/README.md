@@ -1,4 +1,5 @@
-# HTMLを触ってみたくて作ったSample
+# 作成の経緯
+HTMLを触ってみたい & GitHub Pages を使ったWebサイトの公開を試してみたかったため作成した。  
 #URL : https://motoyama-t.github.io/works/  
   
 # GitHub Pagesで任意の階層をドキュメントルートにしたい
